@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on November 25, 2023 at 2:41 pm by All in One SEO v4.5.0 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://vigneshkannan52.github.io/Travel-blog/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/]]></loc>
+		<lastmod><![CDATA[2021-11-09T04:15:03+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-travel-checkout/]]></loc>
+		<lastmod><![CDATA[2023-11-24T11:39:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-travel-dashboard/]]></loc>
+		<lastmod><![CDATA[2023-11-24T11:39:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/sample-page/]]></loc>
+		<lastmod><![CDATA[2023-11-24T11:26:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/contact-us/]]></loc>
+		<lastmod><![CDATA[2021-11-11T07:31:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/enjoy-the-ocean-with-your-family/]]></loc>
+		<lastmod><![CDATA[2021-11-09T07:50:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/ocean.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/its-better-to-travel-well-than-to-arrive/]]></loc>
+		<lastmod><![CDATA[2021-11-09T06:28:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/banner_2.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/about-us/]]></loc>
+		<lastmod><![CDATA[2021-11-09T05:02:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/amazing-mountains-to-explore/]]></loc>
+		<lastmod><![CDATA[2021-11-09T04:31:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/banner.jpg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on November 25, 2023 at 2:41 pm by All in One SEO v4.5.0 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://vigneshkannan52.github.io/Travel-blog/default-sitemap.xsl?sitemap=itinerary_types"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/trip-type/trekking/]]></loc>
+		<lastmod><![CDATA[2021-11-10T11:06:08+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/trip-type/vacation/]]></loc>
+		<lastmod><![CDATA[2021-11-11T05:55:16+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on November 25, 2023 at 2:41 pm by All in One SEO v4.5.0 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://vigneshkannan52.github.io/Travel-blog/default-sitemap.xsl?sitemap=itineraries"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/las-vegas/]]></loc>
+		<lastmod><![CDATA[2021-11-11T05:55:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/arno-river/]]></loc>
+		<lastmod><![CDATA[2021-11-11T05:15:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/jeju-island/]]></loc>
+		<lastmod><![CDATA[2021-11-11T04:45:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/jeju_island.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/dubrovnik/]]></loc>
+		<lastmod><![CDATA[2021-11-10T11:13:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/banner_2.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/phoksundo-lake/]]></loc>
+		<lastmod><![CDATA[2021-11-10T11:06:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/phoksundo_lake.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/oia-santorini/]]></loc>
+		<lastmod><![CDATA[2021-11-10T11:03:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/oia_santorini.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/mauritius-lagoon-island-rock/]]></loc>
+		<lastmod><![CDATA[2021-11-10T11:01:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/Mauritius-Lagoon-Island-Rock.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/itinerary/gokyo-lake-trek/]]></loc>
+		<lastmod><![CDATA[2021-11-10T10:56:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://vigneshkannan52.github.io/Travel-blog/wp-content/uploads/2021/11/gokyo.jpg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

@@ -1,0 +1,71 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/travel-blog
+Data file = E:\Wamp\www\Travel-blog/wp-content/uploads/2023/11/content.xml
+Widget file = E:\Wamp\www\Travel-blog/wp-content/uploads/2023/11/widgets.wie
+Customizer file = E:\Wamp\www\Travel-blog/wp-content/uploads/2023/11/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Travel : Archive Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget 3 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget 4 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Ascendoor: Social Icons - Link WIth Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
